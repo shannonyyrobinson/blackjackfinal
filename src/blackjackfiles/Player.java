@@ -12,6 +12,7 @@ import java.util.Scanner;
 
 
 //define Player class here 
+class Player{
 
 
 
@@ -24,3 +25,4 @@ import java.util.Scanner;
 
 	//hit method goes here
 
+}

@@ -10,7 +10,9 @@ public class BlackJackCard extends Card
 {
   	//constructors
 
-
+        public BlackJackCard(){
+            super(suit, face);
+        }
 
   	public int getValue()
   	{
